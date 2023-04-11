@@ -60,5 +60,4 @@ Aplicação desenvolvida por:
 
 
 
-:rocket:
 
