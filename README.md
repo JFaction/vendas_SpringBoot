@@ -1,4 +1,4 @@
-# Spring Boot & MVC com Thymeleaf
+# Sistema de Vendas com Spring Boot
 
 Sistema de vendas com criação de usuários, cadastro de clientes, cadastro de produtos e pedidos.
 
